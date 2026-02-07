@@ -1,0 +1,8 @@
+
+{
+  "name": "Bohang Online",
+  "description": "A comprehensive mobile-first CRM and order management system for retail stores, featuring profit tracking, customer history, and product management with a clean, modern green-themed interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
